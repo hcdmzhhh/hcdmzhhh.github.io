@@ -1,0 +1,13 @@
+/* 强制作者头像为正圆，不拉伸 */
+.author__avatar {
+  width: 160px;
+  height: 160px;
+}
+
+.author__avatar img {
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  object-fit: cover;
+  display: block;
+}
