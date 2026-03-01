@@ -47,6 +47,8 @@ Feel free to reach out if you'd like to discuss research or explore potential co
     <ul>
       <li>Research focus on <span class="accent-text">LLMs and NLP</span></li>
       <li>Internships at <span class="primary-gradient-text">top institutions</span></li>
+      <li>Publications at <span class="accent-text">BJD</span>, <span class="accent-text">LSM</span></li>
+    </ul>
     </ul>
   </div>
   
@@ -115,15 +117,8 @@ Feel free to reach out if you'd like to discuss research or explore potential co
 <!--- Qiyang Chen, Yuezhi Wang, **Jinxiang Xie**, Guozheng Li, Chi Harold Liu. $M^3$ Trader: Multimodal Macro–Micro Inference with LLM-Guided Reinforcement Learning for Quantitative Trading. **Under Review**.-->
 
 # <i class="fas fa-graduation-cap"></i> Educations
-- *2025.09 - Present*: &nbsp;Master of Science at <span class="primary-gradient-text">Kuang Yaming Honors School, Nanjing University</span>.
-- *2021.09 - 2025.06*: &nbsp;Bachelor of Science in Information and Computing Science, <span class="primary-gradient-text">Beijing Jiaotong University</span>.
-
-# <i class="fas fa-laptop-code"></i> Internships
-- *2025.08 - Present*: &nbsp;Research Intern, <a href="https://www.asintelligence.xyz/" class="link-accent">Artificial Scientific Intelligence Lab</a>, **National University of Singapore**.
-- *2024.08 - 2025.08*: &nbsp;Research Intern, <a href="https://www.microsoft.com/en-us/research/group/data-knowledge-intelligence/" class="link-accent">Data, Knowledge and Intelligence (DKI) Group</a>, **Microsoft**.
-- *2023.11 - 2024.08*: &nbsp;Research Intern, <a href="https://sai.pku.edu.cn/znxyenglish/" class="link-accent">Wangxuan Institute of Computer Technology</a>, **Peking University**.
-<!-- - *2023.05 - 2023.07*: &nbsp;Summer Workshop Student, <a href="https://www.comp.nus.edu.sg/" class="link-accent">School of Computer</a>, **National University of Singapore**. -->
-
+- *2020.09 - 2023.07*: &nbsp;Master of Medicine (Academic Track) in Dermatology and Venereology, <span class="primary-gradient-text">Southern Medical University</span>.
+- *2015.09 - 2020.07*: &nbsp;Bachelor of Medicine in Clinical Medicine, <span class="primary-gradient-text">Wenzhou Medical University</span>.
 # <i class="fas fa-blog"></i> Blogs
 
 <!-- Local Blog Posts Section -->
