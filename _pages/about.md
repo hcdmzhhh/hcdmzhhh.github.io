@@ -19,8 +19,19 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is <span class="accent-text">Wenyue Zheng</span> (pronounced "JIN-shee-ahng SHEE-eh"). I am a graduate student at <i class="fas fa-university"></i> **Nanjing University**. I earned my Bachelor's degree in Information and Computing Science from <i class="fas fa-university"></i> **Beijing Jiaotong University**. I was a research intern at <i class="fab fa-microsoft"></i> **Microsoft**, where I have the privilege of working with Principal Researcher <a href="https://www.microsoft.com/en-us/research/people/juding/" class="link-accent">Justin Ding</a>.
-Prior to this, I gained valuable research experience at <i class="fas fa-university"></i> **Peking University** under the guidance of Prof. <a href="https://wanxiaojun.github.io/" class="link-accent">Xiaojun Wan</a>.
+<p>
+  My name is <span class="accent-text">Wenyue Zheng</span>, a graduate student in 
+  <strong>Dermatology and Venereology</strong> at 
+  <i class="fas fa-university"></i> <strong>Southern Medical University</strong>.
+</p>
+
+<p>
+  My research focuses on <strong>skin aging and fibrotic mechanisms</strong>, integrating 
+  <strong>single-cell and spatial transcriptomics</strong>, 
+  <strong>bioinformatics</strong>, and 
+  <strong>artificial intelligence</strong> to uncover pathogenic cell states and molecular 
+  regulatory networks.
+</p>
 
 <div class="quote-accent">
 My research focuses on leveraging <span class="primary-gradient-text">Large Language Models</span> to address complex problems.
