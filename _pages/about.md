@@ -37,9 +37,7 @@ redirect_from:
 My long-term research goal is to leverage <span class="primary-gradient-text">Large Language Models</span> to address complex problems.
 </div>
 
-<div class="quote-accent">
 Feel free to reach out if you'd like to discuss research or explore potential collaboration!
-</div>
 
 <div class="highlight-blocks">
   <div class="highlight-block floating-card">
@@ -48,7 +46,6 @@ Feel free to reach out if you'd like to discuss research or explore potential co
       <li>Research focus on <span class="accent-text">LLMs and NLP</span></li>
       <li>Internships at <span class="primary-gradient-text">top institutions</span></li>
       <li>Publications at <span class="accent-text">BJD</span>, <span class="accent-text">LSM</span></li>
-    </ul>
     </ul>
   </div>
   
@@ -83,13 +80,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
   </div>
   <div class='paper-box-text'>
     <h3>Mapping immune-microenvironment states to clinical phenotypes reveals mechanistic subtypes of systemic sclerosis</h3>
-    <div class="authors"><strong>Wenyue Zheng</strong><sup>b,#</sup>, 
-    Kaiheng Hu<sup>c,#</sup>, 
-    Yantong Cai<sup>a,#,*</sup>, 
-    Yuanqiu Zhong<sup>a</sup>, 
-    Ougen Liu<sup>b</sup>, 
-    Yang Bin<sup>a,*</sup>
-    </div>
+    <div class="authors"><strong>Wenyue Zheng</strong>, Kaiheng Hu, Yantong Cai, Yuanqiu Zhong, Ougen Liu, Yang Bin</div>
     <div class="venue">Under Review</div>
     <!-- <div class="links">
       <a href="#" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
@@ -117,7 +108,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
 <!--- Qiyang Chen, Yuezhi Wang, **Jinxiang Xie**, Guozheng Li, Chi Harold Liu. $M^3$ Trader: Multimodal Macro–Micro Inference with LLM-Guided Reinforcement Learning for Quantitative Trading. **Under Review**.-->
 
 # <i class="fas fa-graduation-cap"></i> Educations
-- *2020.09 - 2023.07*: &nbsp;Master of Medicine (Academic Track) in Dermatology and Venereology, <span class="primary-gradient-text">Southern Medical University</span>.
+- *2020.09 - 2023.07*: &nbsp;Master of Medicine in Dermatology and Venereology, <span class="primary-gradient-text">Southern Medical University</span>.
 - *2015.09 - 2020.07*: &nbsp;Bachelor of Medicine in Clinical Medicine, <span class="primary-gradient-text">Wenzhou Medical University</span>.
 # <i class="fas fa-blog"></i> Blogs
 
