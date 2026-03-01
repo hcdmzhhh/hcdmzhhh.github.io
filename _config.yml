@@ -28,7 +28,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Wenyue Zheng"
-  avatar           : "{{ site.url }}{{ site.baseurl }}/images/IMG_korea2.JPG"
+  avatar           : "{{ site.url }}{{ site.baseurl }}/images/IMG_korea.JPG"
   bio              : "Southern Medical University"
   location         : "Nanchang, China"
   employer         :
