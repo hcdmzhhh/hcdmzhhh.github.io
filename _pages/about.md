@@ -76,7 +76,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>
     <div class="badge pulse-accent">Under Review</div>
-    <img src='images/images/covarnet.jpg' alt="CAST Framework Architecture" width="100%">
+    <img src='images/covarnet.jpg' alt="CAST Framework Architecture" width="100%">
   </div>
   <div class='paper-box-text'>
     <h3>Mapping immune-microenvironment states to clinical phenotypes reveals mechanistic subtypes of systemic sclerosis</h3>
