@@ -1,8 +1,0 @@
-/* 强制作者头像为正圆，不拉伸 */
-.author__avatar img {
-  width: 160px;        /* 可按需要改 */
-  height: 160px;       /* 必须与 width 相同 */
-  border-radius: 50%;
-  object-fit: cover;  /* 关键：防止图片被拉伸 */
-  display: block;
-}
