@@ -34,10 +34,12 @@ redirect_from:
 </p>
 
 <div class="quote-accent">
-My research focuses on leveraging <span class="primary-gradient-text">Large Language Models</span> to address complex problems.
+My long-term research goal is to leverage <span class="primary-gradient-text">Large Language Models</span> to address complex problems.
 </div>
 
+<div class="quote-accent">
 Feel free to reach out if you'd like to discuss research or explore potential collaboration!
+</div>
 
 <div class="highlight-blocks">
   <div class="highlight-block floating-card">
@@ -45,24 +47,22 @@ Feel free to reach out if you'd like to discuss research or explore potential co
     <ul>
       <li>Research focus on <span class="accent-text">LLMs and NLP</span></li>
       <li>Internships at <span class="primary-gradient-text">top institutions</span></li>
-      <li>Publications at <span class="accent-text">AAAI</span>, <span class="accent-text">ACL</span></li>
     </ul>
   </div>
   
   <div class="highlight-block floating-card">
     <h3><i class="fas fa-pen-fancy"></i> Content Creator</h3>
     <ul>
-      <li>Technical blogs with <span class="accent-text">500K+ views</span></li>
-      <li>Active on <a href="https://www.xiaohongshu.com/user/profile/60c47bae000000000100b07e" class="link-accent">Xiaohongshu</a></li>
-      <li><a href="https://mp.weixin.qq.com/s/5wn3NvB2FBpJD1jK0L4qbQ" class="link-accent">Articles</a> about <span class="primary-gradient-text">Tech & Humanities</span></li>
+      <li>Technical blogs with <span class="accent-text">5K+ views</span></li>
+      <li>Active on <a href="https://www.xiaohongshu.com/user/profile/58ad6a1a50c4b42f50d60c6d?xsec_token=&xsec_source=pc_note" class="link-accent">Xiaohongshu</a></li>
     </ul>
   </div>
   
   <div class="highlight-block floating-card">
     <h3><i class="fas fa-globe-asia"></i> Life Explorer</h3>
     <ul>
-      <li>Visited <span class="accent-text">9 countries</span> worldwide</li>
-      <li>Traveled to <span class="accent-text">32 provinces</span> in China</li>
+      <li>Visited <span class="accent-text">3 countries</span> worldwide</li>
+      <li>Traveled to <span class="accent-text">9 provinces</span> in China</li>
       <li>Rich experience in <span class="primary-gradient-text">social work</span></li>
     </ul>
   </div>
@@ -80,8 +80,14 @@ Feel free to reach out if you'd like to discuss research or explore potential co
     <img src='images/TADA-pipeline.jpg' alt="CAST Framework Architecture" width="100%">
   </div>
   <div class='paper-box-text'>
-    <h3>CAST: Achieving Stable LLM-based Text Analysis for Data Analytics</h3>
-    <div class="authors"><strong>Jinxiang Xie</strong>, Zihao Li, Wei He, Rui Ding, Shi Han, Dongmei Zhang</div>
+    <h3>Mapping immune-microenvironment states to clinical phenotypes reveals mechanistic subtypes of systemic sclerosis</h3>
+    <div class="authors"><strong>Wenyue Zheng</strong><sup>b,#</sup>, 
+    Kaiheng Hu<sup>c,#</sup>, 
+    Yantong Cai<sup>a,#,*</sup>, 
+    Yuanqiu Zhong<sup>a</sup>, 
+    Ougen Liu<sup>b</sup>, 
+    Yang Bin<sup>a,*</sup>
+    </div>
     <div class="venue">Under Review</div>
     <!-- <div class="links">
       <a href="#" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
